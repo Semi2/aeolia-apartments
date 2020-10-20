@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+		<meta charset="utf-8">
+		<title>Homework</title>
+	</head>
+	<body style="font-family: calibri;">
+		<h1>Welcome to Aeolia Apartments</h1>
+		<header>
+			<nav>
+ 				 <a href="https://www.aeolia-apartments.com/">Home</a>
+			</nav> 
+			<p>This is our little Paradise!</p>
+				<img src="https://static.wixstatic.com/media/46c4de_cd9489356c774864bbf17001062723c4.jpg/v1/fill/w_501,h_164,al_c,q_80,usm_0.66_1.00_0.01/46c4de_cd9489356c774864bbf17001062723c4.webp"/>
+		</header>
+		<main>
+		<p>What we provide:</p>
+			<ul>
+				<li>Vacation rentals in the nature next to the sea</li>
+				<li>A clean and accessible beach</li>
+				<li>Facilities such as a tennis court and a garden shower</li>
+			</ul>	
+		</main>	
+		<footer>
+			<div>
+  			<h6 style="color: orange;">Our Apartments are ideal for family vacations! Enjoy your stay.</h6>
+			</div>
+		</footer>
+	</body>
+</html>
